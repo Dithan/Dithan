@@ -1,8 +1,21 @@
 <br clear="both">
 
-<div align="center">
+<div align="center" class="banner">
   <img height="150" src="https://images.unsplash.com/photo-1522252234503-e356532cafd5?q=80&w=1925&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"  />
 </div>
+
+<style>
+  .banner{
+    width: 100%;
+    height: 250px;
+  }
+  .banner img{
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+</style>
 
 ###
 
