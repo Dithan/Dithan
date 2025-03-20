@@ -66,7 +66,7 @@
 ###
 
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=dithan&theme=dark&border_radius=5&locale=pt_BR)](https://git.io/streak-stats)
+  <img src="https://streak-stats.demolab.com?user=dithan&theme=dark&border_radius=5&locale=pt_BR" alt="GitHub Streak" />
 </div>
 
 ###
