@@ -9,7 +9,8 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://dithan.github.io/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Portf%C3%B3lio&logo=visualstudio&label=&color=4426bc&logoColor=&labelColor=&style=flat" height="25" alt="visualstudio logo"  />
+    <img src="https://img.shields.io/static/v1?message=Portf%C3%B3lio&logo=visualstudio&label=&color=4426bc&logoColor=&labelColor=&style=flat" height="25" alt="visualstudio logo"  />
+  </a>
 </div>
 
 ###
